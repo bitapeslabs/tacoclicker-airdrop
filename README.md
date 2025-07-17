@@ -1,3 +1,3 @@
-mainnet merkle root: `0x802750a61f8e5ef150af1bf616dab64c29dd9404f385b45fd2895305924160f1`
+mainnet merkle root: `0x861dc8247b536f7366e81b3abecbb7beb70b97704deabee3c283a71713041a18`
 
-regtest merkle root: `0xc8763d3fd945bae7b9fa6949a5e27bcbd0641bfe6d5ecd8425b5b6d3f438cc9d`
+regtest merkle root: `0xf717f33653519dc96c023bd6e6123ccc472755a01eed333b08627a8685dbfcfa`
