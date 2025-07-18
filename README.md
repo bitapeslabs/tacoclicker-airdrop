@@ -1,3 +1,5 @@
 mainnet merkle root: `0x861dc8247b536f7366e81b3abecbb7beb70b97704deabee3c283a71713041a18`
 
 regtest merkle root: `0xf717f33653519dc96c023bd6e6123ccc472755a01eed333b08627a8685dbfcfa`
+
+signet merkle root: `0x1ef19417be969838acb3cf10e00380104c8526c3c5d703c8e740cc1481e7db5c`
